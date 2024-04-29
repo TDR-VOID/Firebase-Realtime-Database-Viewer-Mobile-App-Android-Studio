@@ -1,1 +1,1 @@
-# Firebase-Realtime-Database-Viewer-Mobile-App-Android-Studio-
+# Firebase-Realtime-Database-Viewer-Mobile-App-Android-Studio
